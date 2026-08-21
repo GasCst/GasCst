@@ -1,37 +1,37 @@
 <div align="center">
 
 <!-- 1. ANIMATED HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=220&section=header&text=Gaspare%20Costabile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=220&section=header&text=Gaspare%20Costabile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=220&section=header&text=Gaspare%20Costabile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Computer+Engineering+Student+@+Unical;Full+Stack+%26+Mobile+Software+Engineer;Seeking+Curricular+Internship;Java+%7C+Python+%7C+C+%7C+SQL+%7C+Android" alt="Typing SVG" />
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Computer+Engineering+Student+@+Unical;Full+Stack+%26+Mobile+Software+Engineer;Seeking+Curricular+Internship;Java+%7C+Python+%7C+C+%7C+SQL+%7C+Android](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Computer+Engineering+Student+@+Unical;Full+Stack+%26+Mobile+Software+Engineer;Seeking+Curricular+Internship;Java+%7C+Python+%7C+C+%7C+SQL+%7C+Android)" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University-Università%20della%20Calabria%20(UNICAL)-4c1d95?style=flat-square&logo=academia&logoColor=white" alt="University" />
-  <img src="https://img.shields.io/badge/Track-Computer%20Engineering%20(Professionalizzante)-581c87?style=flat-square&logo=databricks&logoColor=white" alt="Track" />
-  <img src="https://img.shields.io/badge/Location-Rende%2C%20Calabria%2C%20Italy-312e81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="[https://img.shields.io/badge/University-Università%20della%20Calabria%20(UNICAL)-4c1d95?style=flat-square&logo=academia&logoColor=white](https://img.shields.io/badge/University-Università%20della%20Calabria%20(UNICAL)-4c1d95?style=flat-square&logo=academia&logoColor=white)" alt="University" />
+  <img src="[https://img.shields.io/badge/Track-Computer%20Engineering%20(Professionalizzante)-581c87?style=flat-square&logo=databricks&logoColor=white](https://img.shields.io/badge/Track-Computer%20Engineering%20(Professionalizzante)-581c87?style=flat-square&logo=databricks&logoColor=white)" alt="Track" />
+  <img src="[https://img.shields.io/badge/Location-Rende%2C%20Calabria%2C%20Italy-312e81?style=flat-square&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-Rende%2C%20Calabria%2C%20Italy-312e81?style=flat-square&logo=googlemaps&logoColor=white)" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/GasCst">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=6d28d9" alt="Portfolio" />
+  <a href="[https://github.com/GasCst](https://github.com/GasCst)">
+    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=6d28d9](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=6d28d9)" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/gasparecostabile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4338ca" alt="LinkedIn" />
+  <a href="[https://linkedin.com/in/gasparecostabile](https://linkedin.com/in/gasparecostabile)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4338ca](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4338ca)" alt="LinkedIn" />
   </a>
   <a href="mailto:gascst.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed" alt="Email" />
+    <img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed)" alt="Email" />
   </a>
-  <a href="https://github.com/GasCst">
-    <img src="https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white&color=2e1065" alt="GitHub" />
+  <a href="[https://github.com/GasCst](https://github.com/GasCst)">
+    <img src="[https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white&color=2e1065](https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white&color=2e1065)" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GasCst&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/GasCst?style=flat-square&label=FOLLOWERS&color=4c1d95&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/GasCst?style=flat-square&label=TOTAL+STARS&color=5b21b6&logo=apachespark" alt="Stars" />
+  <img src="[https://komarev.com/ghpvc/?username=GasCst&color=7c3aed&style=flat-square&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=GasCst&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)" alt="Profile Views" />
+  <img src="[https://img.shields.io/github/followers/GasCst?style=flat-square&label=FOLLOWERS&color=4c1d95&logo=github](https://img.shields.io/github/followers/GasCst?style=flat-square&label=FOLLOWERS&color=4c1d95&logo=github)" alt="Followers" />
+  <img src="[https://img.shields.io/github/stars/GasCst?style=flat-square&label=TOTAL+STARS&color=5b21b6&logo=apachespark](https://img.shields.io/github/stars/GasCst?style=flat-square&label=TOTAL+STARS&color=5b21b6&logo=apachespark)" alt="Stars" />
 </p>
 
 </div>
@@ -41,12 +41,12 @@
 <!-- 2. ABOUT SECTION -->
 ### Executive Summary
 
-Computer Engineering undergraduate at Università della Calabria (UNICAL) completing the curriculum *Professionalizzante*, combining foundational engineering rigor with practical software architecture, web development, and mobile systems engineering[span_0](start_span)[span_0](end_span).
+Computer Engineering undergraduate at Università della Calabria (UNICAL) completing the curriculum *Professionalizzante*, combining foundational engineering rigor with practical software architecture, web development, and mobile systems engineering[cite: 2].
 
-* **Systems & Full Stack Engineering:** Solid command of object-oriented design and enterprise development in Java (OOP, Collections, Multi-threading), C system calls, Python algorithms, GNU/Linux shell scripting, relational database design (SQL/DBMS, OLTP/OLAP), and three-tier Java Enterprise web systems with ORM layers[span_1](start_span)[span_1](end_span).
-* **Mobile & Networking Architectures:** Proficient in native Android development, context-aware mobile computing, network socket programming, and TCP/IP protocol analysis[span_2](start_span)[span_2](end_span).
-* **Engineering Mindset:** Grounded in formal software engineering methodologies (UML modeling, design patterns, testing lifecycles), algorithmic optimization, digital logic design, and business process modeling[span_3](start_span)[span_3](end_span).
-* **Open To:** Curricular Internship (*Tirocinio Curricolare*), Junior Software Engineer positions, Full Stack / Backend roles, and Cloud & DevOps engineering projects[span_4](start_span)[span_4](end_span).
+* **Systems & Full Stack Engineering:** Solid command of object-oriented design and enterprise development in Java (OOP, Collections, Multi-threading), C system calls, Python algorithms, GNU/Linux shell scripting, relational database design (SQL/DBMS, OLTP/OLAP), and three-tier Java Enterprise web systems with ORM layers[cite: 2].
+* **Mobile & Networking Architectures:** Proficient in native Android development, context-aware mobile computing, network socket programming, and TCP/IP protocol analysis[cite: 2].
+* **Engineering Mindset:** Grounded in formal software engineering methodologies (UML modeling, design patterns, testing lifecycles), algorithmic optimization, digital logic design, and business process modeling[cite: 2].
+* **Open To:** Curricular Internship (*Tirocinio Curricolare*), Junior Software Engineer positions, Full Stack / Backend roles, and Cloud & DevOps engineering projects[cite: 2].
 
 ---
 
@@ -56,19 +56,19 @@ Computer Engineering undergraduate at Università della Calabria (UNICAL) comple
 ### Core Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,bash,html,css,js,ts&perline=8" alt="Languages" />
+  <img src="[https://skillicons.dev/icons?i=java,python,c,bash,html,css,js,ts&perline=8](https://skillicons.dev/icons?i=java,python,c,bash,html,css,js,ts&perline=8)" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,react,tailwind,bootstrap,vite,html,css&perline=8" alt="Frontend and Mobile" />
+  <img src="[https://skillicons.dev/icons?i=androidstudio,java,react,tailwind,bootstrap,vite,html,css&perline=8](https://skillicons.dev/icons?i=androidstudio,java,react,tailwind,bootstrap,vite,html,css&perline=8)" alt="Frontend and Mobile" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,sqlite,maven,gradle,fastapi&perline=8" alt="Backend and Databases" />
+  <img src="[https://skillicons.dev/icons?i=java,spring,postgres,mysql,sqlite,maven,gradle,fastapi&perline=8](https://skillicons.dev/icons?i=java,spring,postgres,mysql,sqlite,maven,gradle,fastapi&perline=8)" alt="Backend and Databases" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,idea,eclipse&perline=8" alt="DevOps and Tooling" />
+  <img src="[https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,idea,eclipse&perline=8](https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,idea,eclipse&perline=8)" alt="DevOps and Tooling" />
 </p>
 
 </div>
@@ -81,10 +81,10 @@ Computer Engineering undergraduate at Università della Calabria (UNICAL) comple
 | Domain | Proficiency | Technical Focus & Methodologies |
 | :--- | :--- | :--- |
 | **Cloud Computing (AWS)** | In Training | Core AWS Cloud Practitioner & AI Practitioner Architecture (AIF-C02, CLF-C02) |
-| **Applied AI & ML Workflows** | Foundation / Intermediate | Algorithmic Problem Solving, Python Data Pipelines, LLM API Integrations[span_5](start_span)[span_5](end_span) |
-| **Relational & Info Systems** | Advanced Academic | SQL, Relational Algebra, Normalization, OLTP/OLAP Systems, ORM Mapping[span_6](start_span)[span_6](end_span) |
-| **Software Architecture** | Advanced Academic | UML Modeling, Design Patterns, Modularity, Multi-tier Web Architectures[span_7](start_span)[span_7](end_span) |
-| **Low-Level & Embedded Systems** | Advanced Academic | Assembly, Digital Logic Networks, POSIX Shell, GNU/Linux System Calls[span_8](start_span)[span_8](end_span) |
+| **Applied AI & ML Workflows** | Foundation / Intermediate | Algorithmic Problem Solving, Python Data Pipelines, LLM API Integrations[cite: 2] |
+| **Relational & Info Systems** | Advanced Academic | SQL, Relational Algebra, Normalization, OLTP/OLAP Systems, ORM Mapping[cite: 2] |
+| **Software Architecture** | Advanced Academic | UML Modeling, Design Patterns, Modularity, Multi-tier Web Architectures[cite: 2] |
+| **Low-Level & Embedded Systems** | Advanced Academic | Assembly, Digital Logic Networks, POSIX Shell, GNU/Linux System Calls[cite: 2] |
 
 ---
 
@@ -95,19 +95,19 @@ Computer Engineering undergraduate at Università della Calabria (UNICAL) comple
 <summary><b>1. Enterprise Multi-Tier Web & Info System | Java EE Architecture</b></summary>
 <br>
 
-Three-tier web application built according to modern enterprise software engineering standards, integrating dynamic presentation layers, business logic components, and persistent relational data storage[span_9](start_span)[span_9](end_span).
+Three-tier web application built according to modern enterprise software engineering standards, integrating dynamic presentation layers, business logic components, and persistent relational data storage[cite: 2].
 
 | Metric / Dimension | Production Specification |
 | :--- | :--- |
-| **Tech Stack** | Java Enterprise, Servlets/JSP, Hibernate/ORM, PostgreSQL, HTML5/CSS3[span_10](start_span)[span_10](end_span) |
-| **Architecture** | 3-Tier Layered MVC Architecture with decoupled DAO persistence[span_11](start_span)[span_11](end_span) |
-| **Design Models** | UML Class Diagrams, Sequence Diagrams, and Behavioral Use Cases[span_12](start_span)[span_12](end_span) |
+| **Tech Stack** | Java Enterprise, Servlets/JSP, Hibernate/ORM, PostgreSQL, HTML5/CSS3[cite: 2] |
+| **Architecture** | 3-Tier Layered MVC Architecture with decoupled DAO persistence[cite: 2] |
+| **Design Models** | UML Class Diagrams, Sequence Diagrams, and Behavioral Use Cases[cite: 2] |
 | **Security** | Role-Based Access Control (RBAC), Session Validation, SQL Injection Mitigation |
-| **Impact** | Fully functional enterprise business management system with automated reporting[span_13](start_span)[span_13](end_span) |
+| **Impact** | Fully functional enterprise business management system with automated reporting[cite: 2] |
 
-**Repository:** `https://github.com/GasCst`
+**Repository:** `[https://github.com/GasCst](https://github.com/GasCst)`
 
-Utilizes ORM frameworks for persistent database mapping and implements object-oriented design patterns to guarantee high cohesion and low coupling across system modules[span_14](start_span)[span_14](end_span).
+Utilizes ORM frameworks for persistent database mapping and implements object-oriented design patterns to guarantee high cohesion and low coupling across system modules[cite: 2].
 
 </details>
 
@@ -115,19 +115,19 @@ Utilizes ORM frameworks for persistent database mapping and implements object-or
 <summary><b>2. Context-Aware Android Mobile Application | Android SDK</b></summary>
 <br>
 
-Native Android application leveraging platform APIs, location providers, and background services to deliver real-time data sync and adaptive mobile interfaces[span_15](start_span)[span_15](end_span).
+Native Android application leveraging platform APIs, location providers, and background services to deliver real-time data sync and adaptive mobile interfaces[cite: 2].
 
 | Metric / Dimension | Production Specification |
 | :--- | :--- |
-| **Tech Stack** | Java / Kotlin, Android SDK, SQLite, REST APIs, JSON[span_16](start_span)[span_16](end_span) |
-| **Features** | Device Hardware Sensor Integration, Asynchronous Network Fetching[span_17](start_span)[span_17](end_span) |
-| **Data Layer** | Local SQLite persistent storage with structured data caching[span_18](start_span)[span_18](end_span) |
+| **Tech Stack** | Java / Kotlin, Android SDK, SQLite, REST APIs, JSON[cite: 2] |
+| **Features** | Device Hardware Sensor Integration, Asynchronous Network Fetching[cite: 2] |
+| **Data Layer** | Local SQLite persistent storage with structured data caching[cite: 2] |
 | **Security** | Runtime permissions handling, TLS-encrypted endpoint communication |
-| **Impact** | Context-aware event handling optimized for low battery and memory overhead[span_19](start_span)[span_19](end_span) |
+| **Impact** | Context-aware event handling optimized for low battery and memory overhead[cite: 2] |
 
-**Repository:** `https://github.com/GasCst`
+**Repository:** `[https://github.com/GasCst](https://github.com/GasCst)`
 
-Implements asynchronous networking primitives, responsive Material Design UI, and local persistent databases according to Android lifecycle best practices[span_20](start_span)[span_20](end_span).
+Implements asynchronous networking primitives, responsive Material Design UI, and local persistent databases according to Android lifecycle best practices[cite: 2].
 
 </details>
 
@@ -135,19 +135,19 @@ Implements asynchronous networking primitives, responsive Material Design UI, an
 <summary><b>3. Network Protocol Client & Distributed Communication Engine</b></summary>
 <br>
 
-Modular network client-server application implementing custom application-layer socket communication over TCP/IP transport stacks[span_21](start_span)[span_21](end_span).
+Modular network client-server application implementing custom application-layer socket communication over TCP/IP transport stacks[cite: 2].
 
 | Metric / Dimension | Production Specification |
 | :--- | :--- |
-| **Tech Stack** | Java, TCP/IP Sockets, Multi-threading Primitives, I/O Streams[span_22](start_span)[span_22](end_span) |
-| **Concurrency** | Thread pooling for simultaneous connection handling and state sync[span_23](start_span)[span_23](end_span) |
-| **Networking** | ISO/OSI & TCP/IP stack implementation, packet framing and routing logic[span_24](start_span)[span_24](end_span) |
-| **Reliability** | Exception handling, socket timeout recovery, structured logging[span_25](start_span)[span_25](end_span) |
-| **Impact** | High-throughput concurrent message dispatching with verified packet integrity[span_26](start_span)[span_26](end_span) |
+| **Tech Stack** | Java, TCP/IP Sockets, Multi-threading Primitives, I/O Streams[cite: 2] |
+| **Concurrency** | Thread pooling for simultaneous connection handling and state sync[cite: 2] |
+| **Networking** | ISO/OSI & TCP/IP stack implementation, packet framing and routing logic[cite: 2] |
+| **Reliability** | Exception handling, socket timeout recovery, structured logging[cite: 2] |
+| **Impact** | High-throughput concurrent message dispatching with verified packet integrity[cite: 2] |
 
-**Repository:** `https://github.com/GasCst`
+**Repository:** `[https://github.com/GasCst](https://github.com/GasCst)`
 
-Built to validate transport layer mechanics, reliable stream transmission, and multithreaded concurrency models in distributed environments[span_27](start_span)[span_27](end_span).
+Built to validate transport layer mechanics, reliable stream transmission, and multithreaded concurrency models in distributed environments[cite: 2].
 
 </details>
 
@@ -156,13 +156,13 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 <!-- 6. EXPERIENCE SECTION -->
 ### Education & Academic Background
 
-**Bachelor's Degree in Computer Engineering (*Ingegneria Informatica*)** | *Università della Calabria (UNICAL)*[span_28](start_span)[span_28](end_span)  
-*Rende, Italy | Curriculum: Professionalizzante*[span_29](start_span)[span_29](end_span)  
-* Comprehensive training covering software engineering, algorithms, object-oriented design, databases, networks, and mobile/web development[span_30](start_span)[span_30](end_span).
-* Currently preparing for the mandatory curricular internship (*Tirocinio Formativo e di Orientamento*)[span_31](start_span)[span_31](end_span).
+**Bachelor's Degree in Computer Engineering (*Ingegneria Informatica*)** | *Università della Calabria (UNICAL)*[cite: 2]  
+*Rende, Italy | Curriculum: Professionalizzante*[cite: 2]  
+* Comprehensive training covering software engineering, algorithms, object-oriented design, databases, networks, and mobile/web development[cite: 2].
+* Currently preparing for the mandatory curricular internship (*Tirocinio Formativo e di Orientamento*)[cite: 2].
 * Actively completing AWS Cloud Practitioner and AWS Certified AI Practitioner certifications.
 
-`Java` `Python` `C` `SQL` `Android SDK` `UML` `Linux` `Networking` `Git`[span_32](start_span)[span_32](end_span)
+`Java` `Python` `C` `SQL` `Android SDK` `UML` `Linux` `Networking` `Git`[cite: 2]
 
 ---
 
@@ -173,10 +173,10 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 | Recognition | Details |
 | :--- | :--- |
-| **UNICAL Computer Engineering** | Completed core coursework in Algorithms, OOP, Database Systems, Software Engineering, Mobile/Web Platforms, and Telecom Networks[span_33](start_span)[span_33](end_span) |
+| **UNICAL Computer Engineering** | Completed core coursework in Algorithms, OOP, Database Systems, Software Engineering, Mobile/Web Platforms, and Telecom Networks[cite: 2] |
 | **AWS Certification Prep** | Actively preparing for AWS Certified AI Practitioner (AIF-C02) & AWS Certified Cloud Practitioner (CLF-C02) |
-| **Software Design Competence** | Rigorous academic project delivery in Java Enterprise, Android SDK, and Database Management Systems[span_34](start_span)[span_34](end_span) |
-| **B1 English Certification** | Certified competence in international technical documentation and collaborative environments[span_35](start_span)[span_35](end_span) |
+| **Software Design Competence** | Rigorous academic project delivery in Java Enterprise, Android SDK, and Database Management Systems[cite: 2] |
+| **B1 English Certification** | Certified competence in international technical documentation and collaborative environments[cite: 2] |
 
 </div>
 
@@ -186,10 +186,10 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 ### Certifications & Continuous Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner%20(AIF--C02)%20[In%20Progress]-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20(CLF--C02)%20[In%20Progress]-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/UNICAL-B.S.%20Computer%20Engineering%20Core-4c1d95?style=for-the-badge&logo=academia&logoColor=white" alt="UNICAL Core" />
-  <img src="https://img.shields.io/badge/CEFR-English%20B1%20Proficiency-1BA0D7?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English B1" />
+  <img src="[https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner%20(AIF--C02)%20](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner%20(AIF--C02)%20)[In%20Progress]-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" />
+  <img src="[https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20(CLF--C02)%20](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20(CLF--C02)%20)[In%20Progress]-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  <img src="[https://img.shields.io/badge/UNICAL-B.S.%20Computer%20Engineering%20Core-4c1d95?style=for-the-badge&logo=academia&logoColor=white](https://img.shields.io/badge/UNICAL-B.S.%20Computer%20Engineering%20Core-4c1d95?style=for-the-badge&logo=academia&logoColor=white)" alt="UNICAL Core" />
+  <img src="[https://img.shields.io/badge/CEFR-English%20B1%20Proficiency-1BA0D7?style=for-the-badge&logo=googletranslate&logoColor=white](https://img.shields.io/badge/CEFR-English%20B1%20Proficiency-1BA0D7?style=for-the-badge&logo=googletranslate&logoColor=white)" alt="English B1" />
 </p>
 
 ---
@@ -198,14 +198,14 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 ### Technical Profiles & Problem Solving
 
 <p align="left">
-  <a href="https://github.com/GasCst">
-    <img src="https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="[https://github.com/GasCst](https://github.com/GasCst)">
+    <img src="[https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Profile" />
   </a>
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="[https://leetcode.com](https://leetcode.com)">
+    <img src="[https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)" alt="LeetCode" />
   </a>
-  <a href="https://hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-Java_%26_Algorithms-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="[https://hackerrank.com](https://hackerrank.com)">
+    <img src="[https://img.shields.io/badge/HackerRank-Java_%26_Algorithms-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-Java_%26_Algorithms-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)" alt="HackerRank" />
   </a>
 </p>
 
