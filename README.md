@@ -217,12 +217,12 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 ### Telemetry & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_color=4C1D95&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GasCst&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&border=4C1D95&hide_border=false" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)" width="48%" alt="GitHub Stats" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=GasCst&theme=tokyonight&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=GasCst&theme=tokyonight&hide_border=false)" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=4C1D95&hide_border=false&langs_count=8" width="60%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)" width="60%" alt="Top Languages" />
 </p>
 
 </div>
@@ -234,7 +234,7 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 ### Developer Accolades
 
-<img src="https://github-profile-trophy.vercel.app/?username=GasCst&theme=darkhub&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+<img src="[https://github-profile-trophy.vercel.app/?username=GasCst&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=7](https://github-profile-trophy.vercel.app/?username=GasCst&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=7)" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -245,7 +245,7 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 ### Continuous Integration & Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GasCst&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=false&border_color=4C1D95" width="100%" alt="Contribution Graph" />
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=GasCst&theme=tokyo-night&area=true&hide_border=false](https://github-readme-activity-graph.vercel.app/graph?username=GasCst&theme=tokyo-night&area=true&hide_border=false)" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -256,7 +256,7 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 ### Contribution Grid Traversal
 
-<img src="https://raw.githubusercontent.com/GasCst/GasCst/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="[https://raw.githubusercontent.com/GasCst/GasCst/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/GasCst/GasCst/output/github-contribution-grid-snake-dark.svg)" alt="Snake Animation" width="100%" />
 
 </div>
 
@@ -286,28 +286,3 @@ focus_areas:
     - "Curricular Internship (Tirocinio Curricolare)"
     - "Junior Software Engineer / Full Stack Developer positions"
     - "Open-source software projects and technical collaborations"
-
-<!-- 15. CONNECT SECTION -->
-<div align="center">
-Establish Connection
-<p align="center">
-<a href="mailto:gascst.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed" alt="Gmail" />
-</a>
-<a href="https://linkedin.com/in/gasparecostabile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4338ca" alt="LinkedIn" />
-</a>
-<a href="https://github.com/GasCst">
-<img src="https://img.shields.io/badge/GitHub-GasCst-100000?style=for-the-badge&logo=github&logoColor=white&color=2e1065" alt="GitHub" />
-</a>
-<a href="https://github.com/GasCst">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=6d28d9" alt="Portfolio" />
-</a>
-</p>
-</div>
-<!-- 16. FOOTER SECTION -->
-<div align="center">
-"Driven by engineering discipline, dedicated to building resilient and impactful software systems."
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=120&section=footer" width="100%" />
-</div>
-
