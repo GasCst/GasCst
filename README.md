@@ -1,37 +1,37 @@
 <div align="center">
 
 <!-- 1. ANIMATED HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=220&section=header&text=Engineering%20Intelligence%20at%20Scale&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=220&section=header&text=Gaspare%20Costabile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Senior+Full+Stack+%26+AI+Systems+Architect;Designing+Distributed+Microservices+%26+LLM+Pipelines;Obsessed+with+Sub-10ms+Latency+%26+Zero-Downtime;Production-Ready+Enterprise+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Computer+Engineering+Student+@+Unical;Full+Stack+%26+Mobile+Software+Engineer;Seeking+Curricular+Internship;Java+%7C+Python+%7C+C+%7C+SQL+%7C+Android" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.S.%20in%20Computer%20Engineering-4c1d95?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Track-Distributed%20Systems%20%26%20ML-581c87?style=flat-square&logo=databricks&logoColor=white" alt="Track" />
-  <img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA%20%2F%20Remote-312e81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/University-Università%20della%20Calabria%20(UNICAL)-4c1d95?style=flat-square&logo=academia&logoColor=white" alt="University" />
+  <img src="https://img.shields.io/badge/Track-Computer%20Engineering%20(Professionalizzante)-581c87?style=flat-square&logo=databricks&logoColor=white" alt="Track" />
+  <img src="https://img.shields.io/badge/Location-Rende%2C%20Calabria%2C%20Italy-312e81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-placeholder.com">
+  <a href="https://github.com/GasCst">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=6d28d9" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/gasparecostabile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4338ca" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@developer.domain">
+  <a href="mailto:gascst.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed" alt="Email" />
   </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=2e1065" alt="GitHub" />
+  <a href="https://github.com/GasCst">
+    <img src="https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white&color=2e1065" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-github-username?style=flat-square&label=FOLLOWERS&color=4c1d95&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/your-github-username?style=flat-square&label=TOTAL+STARS&color=5b21b6&logo=apachespark" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=GasCst&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/GasCst?style=flat-square&label=FOLLOWERS&color=4c1d95&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/GasCst?style=flat-square&label=TOTAL+STARS&color=5b21b6&logo=apachespark" alt="Stars" />
 </p>
 
 </div>
@@ -41,12 +41,12 @@
 <!-- 2. ABOUT SECTION -->
 ### Executive Summary
 
-Full Stack & AI Systems Engineer specializing in architecting resilient microservices, high-throughput streaming systems, and enterprise LLM inference pipelines. Backed by extensive experience across the modern cloud lifecycle, with a core focus on building production-grade distributed architectures that translate complex mathematical models into performant software solutions.
+Computer Engineering undergraduate at Università della Calabria (UNICAL) completing the curriculum *Professionalizzante*, combining foundational engineering rigor with practical software architecture, web development, and mobile systems engineering[span_0](start_span)[span_0](end_span).
 
-* **Systems & Full Stack Engineering:** Expert in building deterministic, typed backends in Go/Rust/TypeScript, scalable event meshes with Apache Kafka, and modular client interfaces using Next.js/React.
-* **AI/ML & LLMOps Architecture:** Experienced in deploying low-latency RAG architectures, multi-tenant vector indexes, quantized local LLM inference engines, and fine-tuning pipelines using PyTorch and vLLM.
-* **Product Engineering Mindset:** Ruthlessly prioritizing measurable business outcomes, sub-second SLAs, horizontal scalability, zero-trust security postures, and strict architectural observability.
-* **Open To:** Staff/Senior Software Engineering roles, AI Systems Architect positions, technical advisory for high-growth tech startups, and critical open-source contributions.
+* **Systems & Full Stack Engineering:** Solid command of object-oriented design and enterprise development in Java (OOP, Collections, Multi-threading), C system calls, Python algorithms, GNU/Linux shell scripting, relational database design (SQL/DBMS, OLTP/OLAP), and three-tier Java Enterprise web systems with ORM layers[span_1](start_span)[span_1](end_span).
+* **Mobile & Networking Architectures:** Proficient in native Android development, context-aware mobile computing, network socket programming, and TCP/IP protocol analysis[span_2](start_span)[span_2](end_span).
+* **Engineering Mindset:** Grounded in formal software engineering methodologies (UML modeling, design patterns, testing lifecycles), algorithmic optimization, digital logic design, and business process modeling[span_3](start_span)[span_3](end_span).
+* **Open To:** Curricular Internship (*Tirocinio Curricolare*), Junior Software Engineer positions, Full Stack / Backend roles, and Cloud & DevOps engineering projects[span_4](start_span)[span_4](end_span).
 
 ---
 
@@ -56,19 +56,19 @@ Full Stack & AI Systems Engineer specializing in architecting resilient microser
 ### Core Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,cpp,c,java&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,bash,html,css,js,ts&perline=8" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,vite&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,react,tailwind,bootstrap,vite,html,css&perline=8" alt="Frontend and Mobile" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,graphql,postgres,mongodb,redis&perline=8" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,sqlite,maven,gradle,fastapi&perline=8" alt="Backend and Databases" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,kafka,git,linux&perline=8" alt="Cloud, DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,idea,eclipse&perline=8" alt="DevOps and Tooling" />
 </p>
 
 </div>
@@ -76,152 +76,136 @@ Full Stack & AI Systems Engineer specializing in architecting resilient microser
 ---
 
 <!-- 4. AI/ML EXPERTISE SECTION -->
-### Applied AI & Machine Learning Specialization
+### Applied AI & Cloud Architecture Specialization
 
 | Domain | Proficiency | Technical Focus & Methodologies |
 | :--- | :--- | :--- |
-| **Large Language Models (LLMs)** | Production Expert | RAG Pipelines, Semantic Routing, LangChain, LlamaIndex, vLLM, DeepSpeed |
-| **Fine-Tuning & Quantization** | Advanced | PEFT, LoRA, QLoRA, AWQ, GGUF/GGML, FlashAttention-2, SFT Optimization |
-| **Vector DBs & Semantic Search** | Production Expert | Qdrant, Milvus, pgvector, Pinecone, Hybrid Search (BM25 + Dense Re-ranking) |
-| **Computer Vision (CV)** | Intermediate / Advanced | YOLOv9, Vision-Language Models (VLM), CLIP, OpenCV, Feature Extraction |
-| **MLOps & Lifecycle Platforms** | Production Expert | MLflow, Triton Inference Server, Ray, TensorRT, BentoML, Prometheus/Grafana |
+| **Cloud Computing (AWS)** | In Training | Core AWS Cloud Practitioner & AI Practitioner Architecture (AIF-C02, CLF-C02) |
+| **Applied AI & ML Workflows** | Foundation / Intermediate | Algorithmic Problem Solving, Python Data Pipelines, LLM API Integrations[span_5](start_span)[span_5](end_span) |
+| **Relational & Info Systems** | Advanced Academic | SQL, Relational Algebra, Normalization, OLTP/OLAP Systems, ORM Mapping[span_6](start_span)[span_6](end_span) |
+| **Software Architecture** | Advanced Academic | UML Modeling, Design Patterns, Modularity, Multi-tier Web Architectures[span_7](start_span)[span_7](end_span) |
+| **Low-Level & Embedded Systems** | Advanced Academic | Assembly, Digital Logic Networks, POSIX Shell, GNU/Linux System Calls[span_8](start_span)[span_8](end_span) |
 
 ---
 
 <!-- 5. FEATURED PROJECTS SECTION -->
-### Production Systems & Architectures
+### Engineering Projects & Systems
 
 <details>
-<summary><b>1. NexusFlow | Enterprise Autonomous Agent Orchestration Platform</b></summary>
+<summary><b>1. Enterprise Multi-Tier Web & Info System | Java EE Architecture</b></summary>
 <br>
 
-High-throughput, multi-agent orchestration fabric designed for deterministic tool execution, automated code review workflows, and resilient asynchronous task graphs with full telemetry tracing.
+Three-tier web application built according to modern enterprise software engineering standards, integrating dynamic presentation layers, business logic components, and persistent relational data storage[span_9](start_span)[span_9](end_span).
 
 | Metric / Dimension | Production Specification |
 | :--- | :--- |
-| **Tech Stack** | Go, TypeScript, Next.js 14, FastEmbed, Qdrant, Temporal.io, Redis |
-| **Scale** | 100k+ parallel event executions / minute with zero data loss guarantees |
-| **Performance** | Sub-40ms P99 agent dispatch latency via custom connection pooling |
-| **Security** | Sandboxed gRPC micro-VM execution wrappers, TLS 1.3 mutual auth, OAuth2 RBAC |
-| **Impact** | Reduced recurring CI/CD code verification workloads by 42% across 3 enterprise teams |
+| **Tech Stack** | Java Enterprise, Servlets/JSP, Hibernate/ORM, PostgreSQL, HTML5/CSS3[span_10](start_span)[span_10](end_span) |
+| **Architecture** | 3-Tier Layered MVC Architecture with decoupled DAO persistence[span_11](start_span)[span_11](end_span) |
+| **Design Models** | UML Class Diagrams, Sequence Diagrams, and Behavioral Use Cases[span_12](start_span)[span_12](end_span) |
+| **Security** | Role-Based Access Control (RBAC), Session Validation, SQL Injection Mitigation |
+| **Impact** | Fully functional enterprise business management system with automated reporting[span_13](start_span)[span_13](end_span) |
 
-**Repository:** `https://github.com/your-github-username/nexus-flow-core`
+**Repository:** `https://github.com/GasCst`
 
-NexusFlow implements dynamic directed acyclic graphs (DAGs) to route complex multi-modal analytical requests to specialized agent clusters. Incorporates automatic state checkpointing, contextual sliding-window memory management, and deterministic error fallback topologies.
+Utilizes ORM frameworks for persistent database mapping and implements object-oriented design patterns to guarantee high cohesion and low coupling across system modules[span_14](start_span)[span_14](end_span).
 
 </details>
 
 <details>
-<summary><b>2. VectorPulse | Distributed Real-Time Semantic Analytics Engine</b></summary>
+<summary><b>2. Context-Aware Android Mobile Application | Android SDK</b></summary>
 <br>
 
-Cloud-native semantic telemetry ingest pipeline that performs embedding generation, anomaly identification, and clustered vector similarity computations directly over live streaming logs.
+Native Android application leveraging platform APIs, location providers, and background services to deliver real-time data sync and adaptive mobile interfaces[span_15](start_span)[span_15](end_span).
 
 | Metric / Dimension | Production Specification |
 | :--- | :--- |
-| **Tech Stack** | Rust, Python, Apache Kafka, pgvector, PyTorch, Docker, Kubernetes |
-| **Scale** | Ingesting and vectorizing 15,000+ unstructured log payloads / second |
-| **Performance** | P95 vector embedding and similarity scoring latency kept under 12ms |
-| **Security** | End-to-end payload encryption (AES-256-GCM), automated audit logging |
-| **Impact** | Cut mean time to root-cause diagnosis (MTTD) from 45 minutes down to 3.2 minutes |
+| **Tech Stack** | Java / Kotlin, Android SDK, SQLite, REST APIs, JSON[span_16](start_span)[span_16](end_span) |
+| **Features** | Device Hardware Sensor Integration, Asynchronous Network Fetching[span_17](start_span)[span_17](end_span) |
+| **Data Layer** | Local SQLite persistent storage with structured data caching[span_18](start_span)[span_18](end_span) |
+| **Security** | Runtime permissions handling, TLS-encrypted endpoint communication |
+| **Impact** | Context-aware event handling optimized for low battery and memory overhead[span_19](start_span)[span_19](end_span) |
 
-**Repository:** `https://github.com/your-github-username/vector-pulse-engine`
+**Repository:** `https://github.com/GasCst`
 
-Built atop an asynchronous Tokio-driven Rust ingest pipeline, VectorPulse integrates unified batched tensor transformations to run multi-threaded vector indexing directly against memory-mapped partition segments.
+Implements asynchronous networking primitives, responsive Material Design UI, and local persistent databases according to Android lifecycle best practices[span_20](start_span)[span_20](end_span).
 
 </details>
 
 <details>
-<summary><b>3. HyperScaleDB | Distributed Transactional Multi-Model Cache</b></summary>
+<summary><b>3. Network Protocol Client & Distributed Communication Engine</b></summary>
 <br>
 
-In-memory cache and key-value store emphasizing partition tolerance, sub-millisecond lookups, raft consensus replication, and programmable write-through synchronization layers.
+Modular network client-server application implementing custom application-layer socket communication over TCP/IP transport stacks[span_21](start_span)[span_21](end_span).
 
 | Metric / Dimension | Production Specification |
 | :--- | :--- |
-| **Tech Stack** | C++20, Go, RocksDB, gRPC, Protobuf, Terraform, AWS EC2 |
-| **Scale** | Multi-node clustered topology handling 500,000+ concurrent operations |
-| **Performance** | P99 write latency < 2ms, read latency < 450μs across distributed nodes |
-| **Security** | Hardware-level AES-NI integration, fine-grained access control lists (ACLs) |
-| **Impact** | Successfully offloaded 85% of standard read volume from primary relational databases |
+| **Tech Stack** | Java, TCP/IP Sockets, Multi-threading Primitives, I/O Streams[span_22](start_span)[span_22](end_span) |
+| **Concurrency** | Thread pooling for simultaneous connection handling and state sync[span_23](start_span)[span_23](end_span) |
+| **Networking** | ISO/OSI & TCP/IP stack implementation, packet framing and routing logic[span_24](start_span)[span_24](end_span) |
+| **Reliability** | Exception handling, socket timeout recovery, structured logging[span_25](start_span)[span_25](end_span) |
+| **Impact** | High-throughput concurrent message dispatching with verified packet integrity[span_26](start_span)[span_26](end_span) |
 
-**Repository:** `https://github.com/your-github-username/hyperscale-db`
+**Repository:** `https://github.com/GasCst`
 
-Features custom write-ahead logging (WAL), snapshotting algorithms, and an optimized hash-ring balancing mechanism to maintain cluster integrity across catastrophic multi-AZ failovers.
+Built to validate transport layer mechanics, reliable stream transmission, and multithreaded concurrency models in distributed environments[span_27](start_span)[span_27](end_span).
 
 </details>
 
 ---
 
 <!-- 6. EXPERIENCE SECTION -->
-### Professional Experience
+### Education & Academic Background
 
-**Staff Software Engineer & Technical Lead** | *CloudSphere Technologies*  
-*Jan 2024 – Present*  
-Architected and led the complete overhaul of a core microservices infrastructure handling over 40 million API requests daily across multi-region AWS footprints.
-* Directed the phased migration from a monolithic legacy backend to 14 distributed Go-based microservices with gRPC transport layers.
-* Lowered global infrastructure costs by 34% through intelligent node bin-packing, auto-scaling Kubernetes worker pools, and memory profiling.
-* Spearheaded the integration of self-hosted open-weights LLMs to automate tier-1 platform diagnostic operations.
+**Bachelor's Degree in Computer Engineering (*Ingegneria Informatica*)** | *Università della Calabria (UNICAL)*[span_28](start_span)[span_28](end_span)  
+*Rende, Italy | Curriculum: Professionalizzante*[span_29](start_span)[span_29](end_span)  
+* Comprehensive training covering software engineering, algorithms, object-oriented design, databases, networks, and mobile/web development[span_30](start_span)[span_30](end_span).
+* Currently preparing for the mandatory curricular internship (*Tirocinio Formativo e di Orientamento*)[span_31](start_span)[span_31](end_span).
+* Actively completing AWS Cloud Practitioner and AWS Certified AI Practitioner certifications.
 
-`Go` `Kubernetes` `AWS` `gRPC` `Kafka` `Docker` `PostgreSQL` `Terraform`
-
-<br>
-
-**Senior Software Engineer** | *NeuralMatrix Solutions*  
-*Jun 2021 – Dec 2023*  
-Owned and delivered full-stack production systems, data ingestion pipelines, and ML serving backends for mission-critical enterprise workflows.
-* Built real-time WebSocket communication infrastructure serving 200k+ concurrent active dashboard sessions with zero downtime.
-* Integrated strict static analysis, automated CI/CD security scanning, and unit/integration coverage requirements across 8 core code repositories.
-* Mentored 6 junior/mid-level engineers through technical design documentation reviews and targeted code review standards.
-
-`Python` `TypeScript` `FastAPI` `Next.js` `Redis` `PostgreSQL` `PyTorch` `GCP`
+`Java` `Python` `C` `SQL` `Android SDK` `UML` `Linux` `Networking` `Git`[span_32](start_span)[span_32](end_span)
 
 ---
 
 <!-- 7. ACHIEVEMENTS SECTION -->
 <div align="center">
 
-### Honors & Industry Recognition
+### Academic & Technical Milestones
 
 | Recognition | Details |
 | :--- | :--- |
-| **1st Place Winner** | Global AI Innovation Hackathon (Built an autonomous disaster relief coordination system) |
-| **Top Technical Contributor** | Recognized by Open Source Foundation for performance optimization commits in major ML repos |
-| **Author & Speaker** | Presented technical sessions on "Optimizing Inference on Quantized LLMs" at HighPerf DevConf |
-| **Dean’s Scholar** | Academic Excellence Award for graduating in the top 1% of the Computer Engineering department |
+| **UNICAL Computer Engineering** | Completed core coursework in Algorithms, OOP, Database Systems, Software Engineering, Mobile/Web Platforms, and Telecom Networks[span_33](start_span)[span_33](end_span) |
+| **AWS Certification Prep** | Actively preparing for AWS Certified AI Practitioner (AIF-C02) & AWS Certified Cloud Practitioner (CLF-C02) |
+| **Software Design Competence** | Rigorous academic project delivery in Java Enterprise, Android SDK, and Database Management Systems[span_34](start_span)[span_34](end_span) |
+| **B1 English Certification** | Certified competence in international technical documentation and collaborative environments[span_35](start_span)[span_35](end_span) |
 
 </div>
 
 ---
 
 <!-- 8. CERTIFICATIONS SECTION -->
-### Professional Certifications
+### Certifications & Continuous Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAP" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS MLS" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI" />
-  <img src="https://img.shields.io/badge/Cisco-Certified%20Network%20Associate%20(CCNA)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20%26%20Distributed%20Systems%20(Elite%2BGold)-4c1d95?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Cloud" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner%20(AIF--C02)%20[In%20Progress]-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20(CLF--C02)%20[In%20Progress]-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/UNICAL-B.S.%20Computer%20Engineering%20Core-4c1d95?style=for-the-badge&logo=academia&logoColor=white" alt="UNICAL Core" />
+  <img src="https://img.shields.io/badge/CEFR-English%20B1%20Proficiency-1BA0D7?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English B1" />
 </p>
 
 ---
 
 <!-- 9. CODING PROFILES SECTION -->
-### Competitive Programming & Problem Solving
+### Technical Profiles & Problem Solving
 
 <p align="left">
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Guardian_Top_1%-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://github.com/GasCst">
+    <img src="https://img.shields.io/badge/GitHub-GasCst-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Rank_1_Institute-29903B?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <a href="https://leetcode.com">
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-6_Star_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-5_Star_Division_1-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/HackerRank-Java_%26_Algorithms-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
@@ -233,12 +217,12 @@ Owned and delivered full-stack production systems, data ingestion pipelines, and
 ### Telemetry & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_color=4C1D95&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&border=4C1D95&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_color=4C1D95&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GasCst&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&border=4C1D95&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=4C1D95&hide_border=false&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=4C1D95&hide_border=false&langs_count=8" width="60%" />
 </p>
 
 </div>
@@ -250,7 +234,7 @@ Owned and delivered full-stack production systems, data ingestion pipelines, and
 
 ### Developer Accolades
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=GasCst&theme=darkhub&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -261,7 +245,7 @@ Owned and delivered full-stack production systems, data ingestion pipelines, and
 
 ### Continuous Integration & Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=false&border_color=4C1D95" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GasCst&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=false&border_color=4C1D95" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -272,7 +256,7 @@ Owned and delivered full-stack production systems, data ingestion pipelines, and
 
 ### Contribution Grid Traversal
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/GasCst/GasCst/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
@@ -283,47 +267,47 @@ Owned and delivered full-stack production systems, data ingestion pipelines, and
 
 ```yaml
 status:
-  current_location: "San Francisco, CA / Hybrid Remote"
-  availability: "Active for High-Impact Roles & Advisory"
-  timezone: "UTC-8 / PST (Flexible to Global Teams)"
+  current_location: "Rende, Calabria, Italy"
+  current_role: "Computer Engineering Student @ UNICAL"
+  availability: "Available for Curricular Internship (Tirocinio)"
 
 focus_areas:
   learning:
-    - "Advanced eBPF kernel profiling for cloud-native network layers"
-    - "Mechanistic interpretability and attention matrix analysis in LLMs"
-    - "Zero-knowledge proof verification algorithms over distributed nodes"
+    - "AWS Cloud Practitioner & AI Practitioner Architecture (CLF-C02, AIF-C02)"
+    - "Advanced multi-tier Java Enterprise application patterns and microservices"
+    - "Linux kernel concepts, process synchronization and memory management"
   building:
-    - "High-throughput asynchronous LLM serving infrastructure via Rust & Triton"
-    - "Autonomous multi-agent orchestration engines for distributed software verification"
+    - "Context-aware Android mobile applications with offline-first persistence"
+    - "Full-stack web systems backed by relational database architectures"
   exploring:
-    - "Hardware-accelerated vector indexes compiling to WebAssembly"
-    - "Ultra-low-latency financial order routing engines on FPGA targets"
+    - "Cloud-native deployments on AWS and containerization workflows"
+    - "Asynchronous event-driven backend communication and distributed systems"
   open_to:
-    - "Staff / Lead Software Engineer roles (Backend, Systems, AI Platform)"
-    - "High-impact enterprise consulting, technical advisory & keynote sessions"
-    - "Deep architectural contributions to core open-source repositories"
+    - "Curricular Internship (Tirocinio Curricolare)"
+    - "Junior Software Engineer / Full Stack Developer positions"
+    - "Open-source software projects and technical collaborations"
 
 <!-- 15. CONNECT SECTION -->
 <div align="center">
 Establish Connection
 <p align="center">
-<a href="mailto:contact@developer.domain">
+<a href="mailto:gascst.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed" alt="Gmail" />
 </a>
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/gasparecostabile">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4338ca" alt="LinkedIn" />
 </a>
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=2e1065" alt="GitHub" />
+<a href="https://github.com/GasCst">
+<img src="https://img.shields.io/badge/GitHub-GasCst-100000?style=for-the-badge&logo=github&logoColor=white&color=2e1065" alt="GitHub" />
 </a>
-<a href="https://portfolio-placeholder.com">
+<a href="https://github.com/GasCst">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=6d28d9" alt="Portfolio" />
 </a>
 </p>
 </div>
 <!-- 16. FOOTER SECTION -->
 <div align="center">
-"Simplicity is prerequisite for reliability — scalable software is the disciplined art of managing complexity."
+"Driven by engineering discipline, dedicated to building resilient and impactful software systems."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_cycle=1&custom_colors=1a0b2e,4c1d95,7c3aed,4338ca,1e1b4b&height=120&section=footer" width="100%" />
 </div>
 
