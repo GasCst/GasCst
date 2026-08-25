@@ -209,19 +209,18 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
   </a>
 </p>
 
----
 <!-- 10. GITHUB ANALYTICS SECTION -->
 <div align="center">
 
 ### Telemetry & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false&v=1" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&v=1" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
 </p>
 
 </div>
@@ -233,11 +232,9 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 ### Developer Accolades
 
-<img src="https://github-profile-trophy.vercel.app/?username=GasCst&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=7&v=1" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=GasCst&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories" width="100%" alt="GitHub Trophies" />
 
 </div>
-
----
 
 <!-- 12. CONTRIBUTION ACTIVITY SECTION -->
 <div align="center">
