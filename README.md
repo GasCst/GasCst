@@ -218,7 +218,7 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GasCst&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
