@@ -215,12 +215,12 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 ### Telemetry & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-m4fwlvj7a-apocalypse-ai.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-m4fwlvj7a-apocalypse-ai.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
 </p>
 
 </div>
