@@ -236,16 +236,16 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 </div>
 
+---
+
 <!-- 12. CONTRIBUTION ACTIVITY SECTION -->
 <div align="center">
 
 ### Continuous Integration & Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GasCst&theme=tokyo-night&area=true&hide_border=false&v=1" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GasCst&theme=tokyo-night&area=true&hide_border=false&v=2" width="100%" alt="Contribution Graph" />
 
 </div>
-
----
 
 <!-- 13. CONTRIBUTION SNAKE SECTION -->
 <div align="center">
