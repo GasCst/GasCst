@@ -215,28 +215,26 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 ### Telemetry & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-m4fwlvj7a-apocalypse-ai.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-iota-lyart-27.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-m4fwlvj7a-apocalypse-ai.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-iota-lyart-27.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
 </p>
 
 </div>
 
 ---
 
-<!-- 11. GITHUB TROPHIES SECTION -->
+<!-- 11. CONTRIBUTION SNAKE SECTION -->
 <div align="center">
 
-### Developer Accolades
+### Contribution Grid Traversal
 
-<img src="https://github-profile-trophy.vercel.app/?username=GasCst&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories" width="100%" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/GasCst/GasCst/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 </div>
-
----
 
 <!-- 12. CONTRIBUTION ACTIVITY SECTION -->
 <div align="center">
