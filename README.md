@@ -214,18 +214,34 @@ Built to validate transport layer mechanics, reliable stream transmission, and m
 
 ### Telemetry & Code Metrics
 
+<!-- Box 1: Core GitHub Account Stats (Equalized Full-Width Stack) -->
 <p align="center">
-  <img src="https://github-readme-stats-iota-lyart-27.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats-iota-lyart-27.vercel.app/api?username=GasCst&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" 
+    alt="GasCst GitHub Stats" 
+    width="495"
+  />
 </p>
 
+<!-- Box 2: Contribution Streak Metrics (Equalized Size, Stacked Below Box 1) -->
 <p align="center">
-  <img src="https://github-readme-stats-iota-lyart-27.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=GasCst&theme=tokyonight&hide_border=false" 
+    alt="GasCst GitHub Streak Stats" 
+    width="495"
+  />
+</p>
+
+<!-- Box 3: Compact Top Languages Card (Eliminates Oversized Layout, Stacked Below Box 2) -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats-iota-lyart-27.vercel.app/api/top-langs/?username=GasCst&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" 
+    alt="GasCst Most Used Languages" 
+    width="380"
+  />
 </p>
 
 </div>
-
----
 
 <!-- 11. CONTRIBUTION SNAKE SECTION -->
 <div align="center">
